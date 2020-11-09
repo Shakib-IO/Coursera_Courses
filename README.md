@@ -1,9 +1,9 @@
 # Coursera Courses
 
 <p align="justify">
-Coursera is one of the leading platform for online courses . There are hundreads of courses you can enroll and learn. 
-I'am interest in Data science field . So I searched and find out some good courses in coursera taught by some great instructor. 
-
+Coursera is one of the leading platforms for online courses. There are hundreds of courses you can enroll in and learn.
+I'm interested in the Data Science field. So I searched and find out some good courses in Coursera taught by some great instructors.
+  
 Here are the Course list I took:
 
 Tensorflow
